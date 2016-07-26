@@ -179,5 +179,5 @@ media=media[['cast',
        'episode length', 'genre',  'imdb rating', 'imdb_url',
        'img_src', 'netflix rating','year']]
 
-
+media.to_csv('media.csv')
 
